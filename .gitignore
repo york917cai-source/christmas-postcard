@@ -1,0 +1,10 @@
+# 系統雜項
+Thumbs.db
+Desktop.ini
+__pycache__/
+*.pyc
+.DS_Store
+
+# 編輯器
+.vscode/
+.idea/
